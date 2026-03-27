@@ -1,6 +1,6 @@
 import styles from './Hero.module.css'
 
-export default function Hero({ personal, contact }) {
+export default function Hero({ personal }) {
   return (
     <section id="hero" className={styles.hero}>
       <div className={styles.inner}>
@@ -19,7 +19,7 @@ export default function Hero({ personal, contact }) {
             </span>
           </div>
           <div className={styles.cta}>
-            <a href={`mailto:${contact.email}`} className={styles.btnPrimary}>Get in touch</a>
+            <a href={personal.linkedin} target="_blank" rel="noreferrer" className={styles.btnPrimary}>Get in touch</a>
             <a href="#experience" className={styles.btnOutline}>View experience</a>
           </div>
         </div>

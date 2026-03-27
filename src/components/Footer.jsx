@@ -1,21 +1,15 @@
 import styles from './Footer.module.css'
 
-export default function Footer({ personal, contact }) {
+export default function Footer({ personal }) {
   return (
     <footer id="contact" className={styles.footer}>
       <div className={styles.inner}>
         <p className={styles.name}>{personal.name}</p>
         <p className={styles.title}>{personal.title}</p>
-        <div className={styles.links}>
-          <a href={`mailto:${contact.email}`} className={styles.link}>
-            <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
-            {contact.email}
-          </a>
-          <a href={`tel:${contact.phone}`} className={styles.link}>
-            <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
-            {contact.phone}
-          </a>
-        </div>
+        <a href={personal.linkedin} target="_blank" rel="noreferrer" className={styles.link}>
+          <svg viewBox="0 0 24 24"><path d="M19 3A2 2 0 0 1 21 5V19A2 2 0 0 1 19 21H5A2 2 0 0 1 3 19V5A2 2 0 0 1 5 3H19M18.5 18.5V13.2A3.26 3.26 0 0 0 15.24 9.94C14.39 9.94 13.4 10.46 12.92 11.24V10.13H10.13V18.5H12.92V13.57A1.46 1.46 0 0 1 14.38 12.11A1.46 1.46 0 0 1 15.84 13.57V18.5H18.5M6.88 8.56A1.68 1.68 0 0 0 8.56 6.88C8.56 5.95 7.81 5.19 6.88 5.19A1.69 1.69 0 0 0 5.19 6.88C5.19 7.81 5.95 8.56 6.88 8.56M8.27 18.5V10.13H5.5V18.5H8.27Z"/></svg>
+          Connect on LinkedIn
+        </a>
         <p className={styles.copy}>© {new Date().getFullYear()} {personal.name}</p>
       </div>
     </footer>
