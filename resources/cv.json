@@ -1,0 +1,225 @@
+{
+  "personal": {
+    "name": "Pasquale Celardo",
+    "title": "Second Officer (Deck)",
+    "tagline": "Chief Mate CoC STCW II/2 | Safety-Driven Officer for Cruise Operations",
+    "location": "Livorno, Italy",
+    "phone": "$CONTACT_PHONE",
+    "email": "$CONTACT_EMAIL",
+    "nationality": "Italian",
+    "date_of_birth": "1998-07-06",
+    "photo": "assets/photo.jpeg"
+  },
+  "profile": "Safety-driven and highly motivated Second Officer with solid seagoing experience on oil/chemical tankers, combined with operational exposure to Ro-Ro passenger vessel service. Currently serving as Second Officer and holding a Chief Mate Certificate of Competency under STCW Regulation II/2, with examinations completed and certificate issuance in progress. Strong professional background in bridge watchkeeping, voyage planning, navigational monitoring, safety management, ship security, and emergency preparedness in demanding operational environments. Proven ability to perform effectively under pressure, maintain high safety standards, and work with discipline and reliability within multicultural crews. Ready to bring my technical competence, safety-first mindset, and leadership potential to the cruise industry, contributing to safe navigation, passenger safety, and efficient onboard operations in line with the highest international standards.",
+  "competencies": [
+    "Bridge Watchkeeping and Safe Navigation",
+    "Voyage Planning and Passage Monitoring",
+    "ECDIS, Radar, ARPA and GMDSS Operations",
+    "Bridge Resource Management",
+    "Safety Management and Emergency Preparedness",
+    "ISM Code and ISPS Code Compliance",
+    "Cargo, Ballast and Stability Operations",
+    "Mooring, Anchoring and Deck Operations",
+    "Passenger Vessel Operational Awareness",
+    "Multicultural Teamwork and Professional Communication"
+  ],
+  "experience": [
+    {
+      "role": "Second Officer (Deck)",
+      "company": "Dalmare S.p.A.",
+      "location": "Livorno, Italy",
+      "period": {
+        "from": "2021-05",
+        "to": null
+      },
+      "vessel_type": "Oil / Chemical Tankers",
+      "vessels": ["Meloria", "Ardenza", "Divina"],
+      "duties": [
+        "Conduct safe navigational watchkeeping in compliance with COLREGs, SOLAS, company procedures, and international maritime regulations",
+        "Prepare, monitor, and execute voyage and passage plans using ECDIS, radar, and other navigational systems",
+        "Maintain and update electronic and paper charts, nautical publications, and navigational documentation",
+        "Carry out GMDSS communications and routine radio and bridge equipment checks",
+        "Navigate safely in restricted visibility, coastal waters, and traffic-dense areas",
+        "Support cargo and ballast operations with strong attention to safety, pollution prevention, and operational accuracy",
+        "Monitor vessel stability, trim, and draft during loading and discharging operations",
+        "Supervise mooring, anchoring, and deck operations, ensuring safe execution by the crew",
+        "Participate actively in emergency drills, including firefighting, abandon ship, and man overboard scenarios",
+        "Perform ship security and access control duties in accordance with the ISPS Code",
+        "Support onboard inspections, maintenance coordination, and shipyard-related activities when required"
+      ]
+    },
+    {
+      "role": "Deck Officer",
+      "company": "Tirrenia",
+      "location": "Milan, Italy",
+      "period": {
+        "from": "2023-06",
+        "to": "2023-08"
+      },
+      "vessel_type": "Ro-Ro Passenger Vessel",
+      "vessels": ["Moby Vinci"],
+      "duties": [
+        "Performed bridge watchkeeping and navigational support duties",
+        "Assisted with vehicle loading, unloading, and securing operations",
+        "Supported safe and efficient port turnaround activities",
+        "Contributed to passenger-related operational awareness during embarkation and disembarkation",
+        "Maintained full compliance with company safety procedures during deck and port operations"
+      ]
+    },
+    {
+      "role": "Deck Cadet",
+      "company": "Dalmare S.p.A.",
+      "location": "Livorno, Italy",
+      "period": {
+        "from": "2017-11",
+        "to": "2019-06"
+      },
+      "vessel_type": "Oil / Chemical Tankers",
+      "vessels": [],
+      "duties": [
+        "Assisted bridge officers during watchkeeping and manoeuvring operations",
+        "Developed practical knowledge of radar, ARPA, ECDIS, and bridge equipment",
+        "Participated in safety rounds, emergency drills, and routine maintenance activities",
+        "Supported cargo and ballast operations under officer supervision",
+        "Prepared checklists, operational forms, and onboard documentation"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Chief Mate (Deck) Certificate of Competency",
+      "standard": "STCW Reg. II/2",
+      "issuer": null,
+      "issued": null,
+      "notes": "Examinations completed November 2025 – certificate issuance in progress",
+      "status": "in_progress"
+    },
+    {
+      "name": "Officer in Charge of a Navigational Watch",
+      "standard": "STCW Reg. II/1",
+      "issuer": null,
+      "issued": "2021-05",
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "GMDSS General Operator's Certificate (GOC)",
+      "standard": null,
+      "issuer": "Maritime and Coastguard Agency, United Kingdom",
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Bridge Resource Management / Leadership and Managerial Skills",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Advanced Fire Fighting",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Medical Care",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Proficiency in Survival Craft and Rescue Boats",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "ECDIS Operator Course",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Advanced Training for Oil Tanker Cargo Operations",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Training for Seafarers and Other Personnel Serving on Passenger Ships",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Radar / ARPA / Bridge Teamwork / Search and Rescue",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Security Awareness",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Basic Safety Training",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": null,
+      "status": "valid"
+    },
+    {
+      "name": "Italian Seafarer Medical Certificate",
+      "standard": null,
+      "issuer": null,
+      "issued": null,
+      "notes": "Valid until 03 December 2027",
+      "valid_until": "2027-12-03",
+      "status": "valid"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Technical Nautical Diploma – Navigation / Ship Conduct",
+      "institution": "Istituto Tecnico Nautico A. Cappellini",
+      "location": "Livorno, Italy",
+      "period": {
+        "from": null,
+        "to": null
+      }
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "B2",
+      "description": "Professional Working Proficiency / Maritime Operational Proficiency"
+    }
+  ]
+}
