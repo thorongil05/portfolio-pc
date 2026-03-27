@@ -32,8 +32,8 @@ jobs:
 
       - run: npm run build
         env:
-          VITE_CONTACT_PHONE: ${{ secrets.CONTACT_PHONE }}
-          VITE_CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          VITE_CONTACT_PHONE: ${{ secrets.VITE_CONTACT_PHONE }}
+          VITE_CONTACT_EMAIL: ${{ secrets.VITE_CONTACT_EMAIL }}
 
       - uses: actions/configure-pages@v4
 
