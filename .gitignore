@@ -1,2 +1,5 @@
 .env
+node_modules/
+dist/
+resources/assets/
 resources/out/

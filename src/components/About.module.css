@@ -1,0 +1,17 @@
+.section {
+  padding: 5rem 0;
+  background: var(--light-bg);
+}
+
+.text {
+  max-width: 740px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.text p {
+  font-size: 1rem;
+  color: var(--light-muted);
+  line-height: 1.85;
+}
